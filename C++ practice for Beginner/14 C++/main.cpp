@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
     int d;
-    count<<"Enter the number"<<endl;
+    cout<<"Enter the number"<<endl;
     cin>>d;
     switch(d){
     case 1:
