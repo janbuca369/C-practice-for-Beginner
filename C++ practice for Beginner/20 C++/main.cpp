@@ -16,7 +16,7 @@ int main()
     cin>>c;
 
     while(1){
-    if(c== -1){
+    if(c == -1){
        cout<<"Good bye Bay!!! \n";
     }
 
