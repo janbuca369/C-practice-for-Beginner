@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742802311 source:d:\my project\c++ practice for beginner\50 c++\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
