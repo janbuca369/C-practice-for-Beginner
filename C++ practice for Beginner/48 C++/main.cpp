@@ -28,7 +28,7 @@ int main()
     cout<<"The read character is: "<<y<<endl;
     inFile2>>x;
     cout<<"The read word is: "<<x<<endl;
-    getline(inFile3, z);
+    //getline(inFile3, z);
     cout<<"The read line is: "<<z<<endl;
     inFile4.get(a);
     cout<<"The read character is: "<<a<<endl;
