@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1742894171 source:d:\my project\c++ practice for beginner\53 c++ file simple project\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
